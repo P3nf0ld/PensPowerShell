@@ -1,7 +1,3 @@
 # Pens PowerShell
 
-## WPF Wizard Template
-
-## Config File Editor Template
-
-## 
+Please see the WIKI https://github.com/P3nf0ld/PensPowerShell/wiki/WPF-Wizard-Template
